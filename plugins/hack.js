@@ -60,7 +60,7 @@ const {
 
 
 smd({
-    cmdname: "hack;silva",    
+    cmdname: "hack",    
     type: "fun",    
     info: "hacking prank",    
     filename: __filename,
